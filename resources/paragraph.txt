@@ -1,0 +1,5 @@
+In the precomputing era, search technology was unavailable, and a concordance offered readers of long works such as
+the Bible something comparable to search results for every word that they would have been likely to search for.
+Today, the ability to combine the result of queries concerning multiple terms (such as searching for words near other words)
+has reduced interest in concordance publishing. In addition, mathematical techniques such as latent semantic indexing
+have been proposed as a means of automatically identifying linguistic information based on word context.
